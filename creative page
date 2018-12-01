@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="About Me">
+    <meta name="author" content="Josh Gibson">
+    <meta name="robots" content="noindex">
+    <title>creative page</title>
+    <link rel="stylesheet" href="style.css" type="text/css">
+    <link rel="stylesheet" media="screen" href="https://fontlibrary.org/face/architect-s-daughter" type="text/css"/>
+  </head>
+
+  <body>
+
+    <header>
+      <h1>creative page</h1>
+      <nav>
+        <ul>
+        <li><a href="https://zachaweke47.github.io/home/.">Home</a></li>
+          <li><a href=" https://zachaweke47.github.io/aboutMe/.">About</a></li>
+          <li><a href=" https://zachaweke47.github.io/coursework-/.">Coursework</a></li>
+          <li><a href="https://zachaweke47.github.io/Artifacts/">Artifacts</a></li>
+          <li><a href="https://zachaweke47.github.io/Module-Assignments/.">Module Assignments</a></li>
+          <li><a href="https://zachaweke47.github.io/Contact-Me/.">Contact Me</a></li>
+          <li><a href="">creative page</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <section>
+        <img src="https://cdn.nba.net/nba-drupal-prod/styles/landscape/http/i2.cdn.turner.com/nba/nba/dam/assets/130828123801-michael-jordan-iso-1998-all-star-game.video-player.jpg?itok=6H7vzj5I" alt="Smiley face" height="100" width="300">
+       <a href="https://en.wikipedia.org/wiki/Football"><h3>Here is a link about the History of basketball</h3> </a>
+        <p><strong>The history of basketball began with its invention in 1891 in Springfield, Massachusetts by Canadian physical education instructor James Naismith as a less injury-prone sport than football. The game became established fairly quickly and grew very popular as the 20th century progressed, first in America and then throughout the world. After basketball became established in American colleges, the professional game followed. </strong></p>
+        <article><embed width="350" height="200" src="https://www.youtube.com/embed/3M2NCcSxKLY" frameborder="0" allow="autoplay; encrypted-media">
+        </article> 
+
+        
+      </section>
+    </main>
+
+    <footer>
+      <p id="date-time"></p>
+      <br>
+      <a href="http://www.w3.org/html/logo/">
+        <img src="https://www.w3.org/html/logo/badge/html5-badge-h-css3-semantics.png" width="165" height="64" alt="HTML5 Powered with CSS3 / Styling, and Semantics" title="HTML5 Powered with CSS3 / Styling, and Semantics">
+      </a><br>
+      <a href="https://validator.w3.org/check?uri=referer" target="_blank">W3C Validator</a><br>
+      <a href="https://jigsaw.w3.org/css-validator/check?uri=referer" target="_blank">CSS Validator</a>
+      
+    </footer>
+    <div class="footer"> <h3>© Copyright 2018 |</h3> 
+      <p id="date"></p>
+
+      <script src="date.js"></script></div>
+
+
+  </body>
+</html>
